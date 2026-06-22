@@ -2,7 +2,7 @@
 
 import { useState, FormEvent } from 'react';
 import { motion } from 'framer-motion';
-import { MessageCircle, Phone, Mail, CheckCircle } from 'lucide-react';
+import { MessageCircle, Phone, Mail, CircleCheck as CheckCircle } from 'lucide-react';
 
 export default function ContactSection() {
   const [submitted, setSubmitted] = useState(false);

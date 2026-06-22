@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { MessageCircle, Code2, TrendingUp, ArrowRight } from 'lucide-react';
+import { MessageCircle, Code as Code2, TrendingUp, ArrowRight } from 'lucide-react';
 
 const steps = [
   {
